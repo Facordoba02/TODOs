@@ -28,3 +28,13 @@ body {
   justify-content: start;
   align-items: center;
 }
+
+
+/* RESPONSIVE */
+
+@media screen and (max-width:768px) {
+  #root{
+    width: 100%;
+    padding: 8px;
+  }
+}
